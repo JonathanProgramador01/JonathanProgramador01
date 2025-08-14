@@ -16,36 +16,13 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 ---
 
-## 🧰 Tech Stack
 
-**Languages & Web**
+<div align="center">
+  
+## 💻 Tech Stack ⚡
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-**Databases & Backend**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![API Design](https://img.shields.io/badge/API%20Design-6E6E6E?logo=swagger&logoColor=white)
-
-**Networking & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Cisco CCST](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
-![Cisco CCNA](https://img.shields.io/badge/CCNA%20Prep-1BA0D7?logo=cisco&logoColor=white)
-
-**Data Analysis & Automation**
-
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![VBA](https://img.shields.io/badge/Excel%20VBA-0078D4?logo=microsoft&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
-
----
+</div>
 
 ## 📚 Education & Certifications
 
@@ -63,17 +40,6 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 ---
 
-## 💡 Featured Projects
-
-- **Flight Booking & Management System** – Full-stack application for managing flight schedules, passenger reservations, and ticketing. Connected to a relational database (MySQL) for real-time data handling. Includes search, booking, and admin panel features.
-
-- **Gym Training & Music Recommendation Platform** – Web + mobile application hosted on a dedicated server that generates personalized workout routines and curated playlists based on user profiles and training goals. Built with database integration, custom API, and multimedia streaming capabilities.
-
-- **[Placeholder for 3rd Project]** – You can add another complex project here once you recall it, for example:
-  - A **network monitoring tool** for visualizing devices and uptime.
-  - A **data analytics dashboard** with Power BI integration.
-  - Or an **IoT prototype** for sensors and automation.
-  
 🔗 [See all my projects here](#)
 
 ---
@@ -101,6 +67,7 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 
 ![snake gif](https://github.com/JonathanProgramador01/JonathanProgramador01/blob/output/github-snake-dark.svg)
+
 
 
 
