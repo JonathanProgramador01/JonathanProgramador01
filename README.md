@@ -1,7 +1,7 @@
 <!-- Top Banner (optional) – Replace the URL with your own image -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-# Hi there! 👋 I'm [Your Name / @yourusername]
+
+# Hi there! 👋 I'm [Jonathan]
 
 🎓 **Computer Systems Engineering Student** (5th semester)  
 🚀 **Goal:** Become a **Solution Architect** (systems integration, networks, cloud & cybersecurity)  
@@ -52,7 +52,7 @@ Currently improving my skills in data structures, design patterns, and automatio
 - 🎓 **BSc in Computer Systems Engineering** – [Your University] (2021 – Present)
 - 📜 **CCST** – Cisco (in progress)  
 - 📜 **CCNA** – Cisco (preparation)  
-- 📜 **Python Developer** – [Institution]  
+- 📜 **Python Developer** 
 - 📜 **Excel (Basic, Green Belt, VBA Macros)** – Certified  
 - 📊 **Power BI Fundamentals** – Certified  
 - 📅 Upcoming:
@@ -82,13 +82,14 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 ## 📬 Connect with Me
 
-- ✉ **Email:** your.email@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/yourusername](#)  
+- ✉ **Email:** jonathanrosascedillo@gmail.com 
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/jonathan-rosas-cedillo-6b50a22b8](#)  
 - 🐙 **GitHub:** [github.com/yourusername](#)  
 
 ---
 
 > 💡 *Always learning, always building.*
+
 
 
 
