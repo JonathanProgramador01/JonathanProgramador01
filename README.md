@@ -1,5 +1,5 @@
 <!-- Top Banner (optional) – Replace the URL with your own image -->
-![Banner](https://martechforum.com/wp-content/uploads/2015/08/AWS-logo.jpg)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 # Hi there! 👋 I'm [Your Name / @yourusername]
 
@@ -89,6 +89,7 @@ Currently improving my skills in data structures, design patterns, and automatio
 ---
 
 > 💡 *Always learning, always building.*
+
 
 
 
