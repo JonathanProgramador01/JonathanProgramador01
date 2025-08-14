@@ -1,7 +1,7 @@
 <!-- Top Banner (optional) – Replace the URL with your own image -->
 
 
-# Hi there! 👋 I'm [Jonathan]
+# Hi there! 👋 I'm Jonathan
 
 🎓 **Computer Systems Engineering Student** (5th semester)  
 🚀 **Goal:** Become a **Solution Architect** (systems integration, networks, cloud & cybersecurity)  
@@ -101,6 +101,7 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 
 ![snake gif](https://github.com/JonathanProgramador01/JonathanProgramador01/blob/output/github-snake-dark.svg)
+
 
 
 
