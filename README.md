@@ -88,14 +88,14 @@ Currently improving my skills in data structures, design patterns, and automatio
 ## 📬 Connect with Me
 
 - ✉ **Email:** jonathanrosascedillo@gmail.com 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Rosas%20Cedillo-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-rosas-cedillo-6b50a22b8)
-
-- 🐙 **GitHub:** [github.com/yourusername](#)  
 - 💼 LinkedIn: [Jonathan Rosas Cedillo](https://www.linkedin.com/in/jonathan-rosas-cedillo-6b50a22b8)
+- 🐙 **GitHub:** [github.com/JonathanProgramador01](#)  
+
 
 ---
 
 > 💡 *Always learning, always building.*
+
 
 
 
