@@ -71,14 +71,21 @@ Currently improving my skills in data structures, design patterns, and automatio
 🔗 [See all my projects here](#)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jon&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jon&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+
+<!-- Stats Card -->
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanProgramador01&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=JonathanProgramador01&theme=tokyonight&hide_border=true)
+
+<!-- Top Langs -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanProgramador01&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
+
 
 ---
 
@@ -95,6 +102,7 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 
 ![snake gif](https://github.com/JonathanProgramador01/JonathanProgramador01/blob/output/github-snake-dark.svg)
+
 
 
 
