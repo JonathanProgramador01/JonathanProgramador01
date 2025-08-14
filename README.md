@@ -97,6 +97,8 @@ Currently improving my skills in data structures, design patterns, and automatio
 > 💡 *Always learning, always building.*
 
 
+![snake gif](https://github.com/JonathanProgramador01/JonathanProgramador01/blob/output/github-snake-dark.svg)
+
 
 
 
