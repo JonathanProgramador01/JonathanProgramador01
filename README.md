@@ -65,10 +65,15 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 ## 💡 Featured Projects
 
-- **Pomodoro Task Management System** – Python app with a custom GUI for time tracking.  
-- **Network Simulation** – Full topology built and configured in Cisco Packet Tracer.  
-- **Database Query API** – REST API using Python and MySQL.  
+- **Flight Booking & Management System** – Full-stack application for managing flight schedules, passenger reservations, and ticketing. Connected to a relational database (MySQL) for real-time data handling. Includes search, booking, and admin panel features.
 
+- **Gym Training & Music Recommendation Platform** – Web + mobile application hosted on a dedicated server that generates personalized workout routines and curated playlists based on user profiles and training goals. Built with database integration, custom API, and multimedia streaming capabilities.
+
+- **[Placeholder for 3rd Project]** – You can add another complex project here once you recall it, for example:
+  - A **network monitoring tool** for visualizing devices and uptime.
+  - A **data analytics dashboard** with Power BI integration.
+  - Or an **IoT prototype** for sensors and automation.
+  
 🔗 [See all my projects here](#)
 
 ---
@@ -86,6 +91,7 @@ Currently improving my skills in data structures, design patterns, and automatio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Rosas%20Cedillo-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-rosas-cedillo-6b50a22b8)
 
 - 🐙 **GitHub:** [github.com/yourusername](#)  
+- 💼 LinkedIn: [Jonathan Rosas Cedillo](https://www.linkedin.com/in/jonathan-rosas-cedillo-6b50a22b8)
 
 ---
 
