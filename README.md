@@ -54,7 +54,7 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 ## 📚 Education & Certifications
 
-- 🎓 **BSc in Computer Systems Engineering** – [Your University] (2021 – Present)
+- 🎓 **BSc in Computer Systems Engineering** – [Justo Sierra] (2021 – Present)
 - 📜 **CCST** – Cisco (in progress)  
 - 📜 **CCNA** – Cisco (preparation)  
 - 📜 **Python Developer** 
@@ -95,6 +95,7 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 
 ![snake gif](https://github.com/JonathanProgramador01/JonathanProgramador01/blob/output/github-snake-dark.svg)
+
 
 
 
