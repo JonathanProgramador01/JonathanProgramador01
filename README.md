@@ -28,11 +28,12 @@ Currently improving my skills in data structures, design patterns, and automatio
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🌐 Desarrollo Web / Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
 ### 🗄️ Bases de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -94,6 +95,7 @@ Currently improving my skills in data structures, design patterns, and automatio
 
 
 ![snake gif](https://github.com/JonathanProgramador01/JonathanProgramador01/blob/output/github-snake-dark.svg)
+
 
 
 
